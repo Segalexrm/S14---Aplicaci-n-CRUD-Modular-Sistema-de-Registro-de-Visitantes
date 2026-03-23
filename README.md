@@ -42,7 +42,7 @@ tarea_poo_visitas/
 2.  **Librerías:** Únicamente la librería estándar `tkinter` (incluida en Python).
 3.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/Segalexrm/S14---Aplicaci-n-CRUD-Modular-Sistema-de-Registro-de-Visitantes.git
+    git clone https://github.com/Segalexrm/S14-tarea-poo-visitas.git
     ```
 
 ##  Ejecución
